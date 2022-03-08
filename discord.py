@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from discord.ext import commands
 load_dotenv()
 
-token = "OTUwNTAxMzAwOTg1MDEyMjU2.YiZ1UQ.NPnIHwHd4EVFPtdaUBn8R7eEVXI"
+token = "token"
 
 #bot = commands.Bot(command_prefix='>')
 
